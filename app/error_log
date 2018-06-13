@@ -1,0 +1,6 @@
+[06-Jun-2018 02:46:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:46:43 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/raiz/public_html/raiz/app/Jogo.php on line 16
+[06-Jun-2018 02:46:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:46:49 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/raiz/public_html/raiz/app/Escola.php on line 19
+[06-Jun-2018 02:47:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:47:06 CST6CDT] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/raiz/public_html/raiz/app/Depoimento.php on line 15

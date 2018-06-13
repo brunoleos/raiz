@@ -1,0 +1,30 @@
+[06-Jun-2018 02:48:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:48:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/raiz/public_html/raiz/routes/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/api.php on line 3
+[06-Jun-2018 02:48:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:48:17 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/raiz/public_html/raiz/routes/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/api.php on line 3
+[06-Jun-2018 02:48:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 21:48:33 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/raiz/public_html/raiz/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/console.php on line 16
+[06-Jun-2018 03:01:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 22:01:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/raiz/public_html/raiz/routes/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/api.php on line 3
+[06-Jun-2018 03:02:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 22:02:01 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/raiz/public_html/raiz/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/channels.php on line 14
+[06-Jun-2018 03:02:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 22:02:08 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/raiz/public_html/raiz/routes/web.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/raiz/public_html/raiz/routes/web.php on line 2
